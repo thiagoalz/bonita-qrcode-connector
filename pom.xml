@@ -20,7 +20,7 @@
 
   <groupId>bonita-qrcode-connector</groupId>
   <artifactId>bonita-qrcode-connector</artifactId>
-  <version>0.1</version>
+  <version>0.2-SNAPSHOT</version>
 
   <scm>
     <url>http://github.com/nicoulaj/bonita-qrcode-connector</url>
